@@ -1,1 +1,1 @@
-# AlgoKursovayaC-
+# KursovayaC-
