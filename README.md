@@ -1,1 +1,1 @@
-# KursovayaC-
+# KursovayaAlgoCpp
